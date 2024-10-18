@@ -1,6 +1,6 @@
 {
   "name": "@qiu_jun/qjcli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "个人自用脚手架工具",
   "main": "./bin/main",
   "bin": {

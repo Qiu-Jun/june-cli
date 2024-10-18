@@ -4,5 +4,5 @@
 ```bash
 npm install @june/cli -g
 
-@june/cli create <projectname>
+qjcli create <projectname>
 ```
