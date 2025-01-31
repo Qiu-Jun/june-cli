@@ -2,7 +2,7 @@
 
 #### Usage
 ```bash
-npm install @june/cli -g
+npm install @qiu_jun/qjcli -g
 
 qjcli create <projectname>
 ```
